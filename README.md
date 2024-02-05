@@ -23,6 +23,7 @@ A simple weather application built using Python's Tkinter for the GUI and OpenWe
 ## Installation
 
 1. Clone the repository
+   ```bash
    git clone https://github.com/your-username/WeatherApp.git
 2. Install the required packages
    pip install tkinter,pip install pillow, pip install requests
