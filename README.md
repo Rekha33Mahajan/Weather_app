@@ -11,7 +11,8 @@ A simple weather application built using Python's Tkinter for the GUI and OpenWe
 
 ## Screenshots
 
-![Weather App Screenshot](assets/screenshot.png)
+![Screenshot 2024-02-05 230832](https://github.com/Rekha33Mahajan/Weather_app/assets/121725301/40744e4c-7014-4678-90cd-1ca54834933e)
+
 
 ## Usage
 
