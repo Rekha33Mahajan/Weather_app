@@ -91,6 +91,6 @@ result_label.pack(pady=10)
 icon_label = tk.Label(app) 
 icon_label.pack()
 
-api_key = "43d7abfe318e16063a364981a2b0cacd"
+api_key = "your_api_token"
 
 app.mainloop()
